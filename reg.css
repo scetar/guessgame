@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(216, 234, 22);
+    
+}
+.container{
+    background-image: url(a.jpeg) ;
+    background-position: centre;
+    height: 500px;
+    width: 700px;
+    margin-left:400px;
+}
+.container p{
+    margin-top: 20px;
+}
+h2{
+    font-size: xx-large;
+    color: red;
+}
